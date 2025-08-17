@@ -1,6 +1,15 @@
 This bash script is my first script that I have published to anyone
 
-This is creaated for fun and at least make some people learn.
+This is creaated for fun and at least make some people learn and say "OHA".
+
+Options of OHA:
+
+    -n : shows n number of interesting information
+
+    --version : prints version information
+
+    --help or -h : help page
+
 
 Installation Instructions:
 

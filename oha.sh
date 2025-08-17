@@ -8,7 +8,7 @@ showHelp(){
 echo "Usage: oha [OPTION]..."
 echo "Continue to learn."
 echo
-echo " -n       prints n exiciting information"
+echo "     -n         prints n number of exiciting information"
 echo
 echo "     --help     display this help and exit"
 echo "     --version  output version information and exit"
@@ -54,6 +54,3 @@ case $1 in
     *)
         showErr $1;;
 esac
-
-
-
