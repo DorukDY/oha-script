@@ -28,8 +28,3 @@ Run install.sh
 That's all!!!
 
 I hope you guys like it. Enjoy.
-
-
-If you want to repair :
-
-    sudo rm -rf /usr/local/bin/oha /etc/oha-info.txt
